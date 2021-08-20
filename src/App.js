@@ -3,7 +3,7 @@ import InputAltura from "./components/InputAltura";
 import Result from "./components/Result";
 import CalcIMC from "./components/Calcular";
 import Table from "./components/Table";
-import Style from './style.css'
+import './style.css';
 import React, {useState} from 'react'
 
 function App() {
